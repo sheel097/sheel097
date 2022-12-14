@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Nirbhay Vachhani</h1>
+<h1>Hi 👋, I'm Sheel Raulji</h1>
 <h3>A Computer engineer from Paul University </h3>
 
 
@@ -11,16 +11,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ## 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on *Petify*
 - 🌱 &nbsp; I’m currently learning Flutter; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/NirbhayVachhani)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sheel097)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nirbhay-vachhani-1a360820b/)
-- 📝 &nbsp; Checkout my [resume](https://www.canva.com/design/DAE9TQWRs8Q/l8-M3Lj-fD75ZZgWu8hGYQ/view?utm_content=DAE9TQWRs8Q&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sheel-raulji-3957b81b5/)
+
 
 <br>
 
 ## 📅 Hobbies
 - Solve programming problems
 - Watch TV shows
+- Play Outdoor Games
 - Play videogames
 - etc...
 
@@ -35,5 +36,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ## 💰Support
 
-<p><a href="https://www.buymeacoffee.com/nirbhay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nirbhay" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sheel009"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sheel" /></a></p><br><br>
 <br>
